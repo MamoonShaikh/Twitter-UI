@@ -6,7 +6,7 @@ import SecMid from './components/Sec_mid';
 
 function App() {
   return (
-   <div className='flex container mx-auto  invert'>
+   <div className='flex container mx-auto '>
     < SecFirst/>
     <SecMid/>
     <SecLast/>
