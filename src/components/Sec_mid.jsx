@@ -4,7 +4,7 @@ function Sec_mid() {
   return (
     <div className=' w-[2000px] border-[1px] border-x-stone-600 border-y-black'>
 
-      <div className='  z-auto sticky top-0 '>
+      <div className='  z-0 bg-stone-900 sticky top-0 '>
         <div className=' flex  cursor-pointer'>
           <p className='  flex justify-center   w-1/2 place-items-center text-white text-bold hover:text-lg hover:bg-stone-900 '>For you</p>
           <p className=' flex justify-center w-1/2  place-items-center text-white text-bold hover:text-lg hover:bg-stone-900  '>Following</p>
